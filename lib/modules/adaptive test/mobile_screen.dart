@@ -6,6 +6,7 @@ import '../../shared/components.dart';
 
 class MobileScreen extends StatelessWidget {
   //create
+  //adads
   var emailController = TextEditingController();
   var passwordController = TextEditingController();
   @override
